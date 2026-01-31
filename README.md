@@ -1,2 +1,2 @@
 # Meus-primeiros-casos-e-cenarios-de-teste
-Casos e cenários de testes + bug report e test report que fiz seguindo os exercícios práticos do curso da Lumestack, analisando sites já existentes e simulando bugs que podem acontecer no dia a dia do trabalho de um QA
+Aqui estão alguns dos meus primeiros cenários de teste que fiz seguindo exercícios do curso da Lumestack, testando a qualidade de sites já existentes, fazendo test cases manuais, simulando bugs e reportando, assim como seria na rotina de um QA.
